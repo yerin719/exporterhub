@@ -23,7 +23,10 @@ const ContentDetail = () => {
       <Header>
         <Container>
           <OpenSourceInfo>
-            <HeaderLogo src="/images/prometheus_logo.png" alt="오픈소스 로고" />
+            <HeaderLogo
+              src="/images/prometheus_logo.png"
+              alt="오픈소스 로고 이미지"
+            />
             <ListWrap>
               <List>
                 <Name>{exporterInfo.name}</Name>
