@@ -46,7 +46,7 @@ ExporterHub.io recommends the best-fit exporter(s) to support Prometheus monitor
 
 ## Diagram Overview
  * Image click to Youtube:
- * [![Diagram Overview](https://raw.githubusercontent.com/Klevry/klevr/master/assets/Klevr_diagram_overview.png)](https://youtu.be/xLkqm1vEmd0)
+ * [![Diagram Overview](https://raw.githubusercontent.com/Klevry/klevr/master/assets/Klevr_diagram_overview.png)](https://www.youtube.com/watch?v=pPZfNi6qms4&feature=youtu.be)
 
 ## Contribute
 Contributions are welcome!   
